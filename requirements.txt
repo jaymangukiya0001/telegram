@@ -1,0 +1,6 @@
+telebot
+requests
+langchain
+openai
+pypdf
+chromadb
